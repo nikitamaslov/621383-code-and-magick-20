@@ -1,7 +1,7 @@
 # Учебный проект «Код и Магия» [![Build status][travis-image]][travis-url]
 
 * Студент: [Никита Маслов](https://up.htmlacademy.ru/javascript/20/user/621383).
-* Наставник: `Неизвестно`.
+* Наставник: [Екатерина Малецкая](https://htmlacademy.ru/profile/id902197).
 
 ---
 
